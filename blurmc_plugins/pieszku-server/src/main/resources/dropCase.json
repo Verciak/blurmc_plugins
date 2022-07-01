@@ -1,0 +1,25 @@
+{
+  "drops": [
+    {
+      "id": 1,
+      "inventoryName": " ",
+      "inventoryLore": [
+        "     &e&l♦ &6&lDIAMENTOWY KILOF 6/3/3 &e&l♦",
+        "&8&m-----&f&m-----&8&m-----&e&m-----&8&m------&f&m------",
+        "",
+        "        &6&lINFORMACJE",
+        "          &fId: &e{ID}",
+        "       &fSzansa: &e{CHANCE}&2%",
+        "",
+        "&8&m-----&f&m-----&8&m-----&e&m-----&8&m------&f&m------"
+      ],
+      "inventorySlot": 10,
+      "chance": 10.25,
+      "material": "DIAMOND_PICKAXE",
+      "materialId": 0,
+      "materialName": "&6&lDIAMENTOWY KILOF 6/3/3",
+      "materialLore": [" ", "&cCenny przedmiot na serwerze"],
+      "materialEnchants": ["DIG_SPEED:6", "DURABILITY:3", "LOOT_BONUS_BLOCKS:3"]
+    }
+  ]
+}

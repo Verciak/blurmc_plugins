@@ -1,0 +1,26 @@
+{
+  "permissionData": [
+    {
+      "id": 1,
+      "inventoryName": "&7Dostęp do niszczenia &5Obsydianu",
+      "inventoryLore": [
+        ""
+      ],
+      "inventorySlot": 10,
+      "materialAmount": 1,
+      "material": "OBSIDIAN",
+      "actionType": "BREAK"
+    },
+    {
+      "id": 2,
+      "inventoryName": "&7Dostęp do stawiania &5Obsydianu",
+      "inventoryLore": [
+        ""
+      ],
+      "inventorySlot": 11,
+      "materialAmount": 2,
+      "material": "OBSIDIAN",
+      "actionType": "PLACE"
+    }
+  ]
+}

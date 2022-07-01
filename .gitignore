@@ -1,0 +1,6 @@
+# Project exclude paths
+/blurmc_plugins/pieszku-api/target/
+/blurmc_plugins/pieszku-client/target/
+/blurmc_plugins/pieszku-discord/target/
+/blurmc_plugins/pieszku-proxy/target/
+/blurmc_plugins/pieszku-server/target/

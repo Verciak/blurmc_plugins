@@ -1,0 +1,4 @@
+main: pl.pieszku.proxy.ProxyMain
+author: Pieszku
+name: pieszku-proxy
+version: 1.0

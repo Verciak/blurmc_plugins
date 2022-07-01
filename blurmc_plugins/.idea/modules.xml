@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pieszku-api/pieszku-api.iml" filepath="$PROJECT_DIR$/pieszku-api/pieszku-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pieszku-client/pieszku-client.iml" filepath="$PROJECT_DIR$/pieszku-client/pieszku-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pieszku-discord/pieszku-discord.iml" filepath="$PROJECT_DIR$/pieszku-discord/pieszku-discord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pieszku-proxy/pieszku-proxy.iml" filepath="$PROJECT_DIR$/pieszku-proxy/pieszku-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pieszku-sectors-recode.iml" filepath="$PROJECT_DIR$/.idea/pieszku-sectors-recode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pieszku-server/pieszku-server.iml" filepath="$PROJECT_DIR$/pieszku-server/pieszku-server.iml" />
+    </modules>
+  </component>
+</project>

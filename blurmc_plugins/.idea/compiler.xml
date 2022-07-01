@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pieszku-api" />
+        <module name="pieszku-proxy" />
+        <module name="pieszku-discord" />
+        <module name="pieszku-client" />
+        <module name="pieszku-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pieszku-api" target="8" />
+      <module name="pieszku-client" target="8" />
+      <module name="pieszku-discord" target="8" />
+      <module name="pieszku-proxy" target="8" />
+      <module name="pieszku-server" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

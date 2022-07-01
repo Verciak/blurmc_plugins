@@ -1,0 +1,130 @@
+{
+  "drops": [
+    {
+      "id": 1,
+      "inventoryName": " ",
+      "inventoryLore": [
+        "     &e&l♦ &6&lDIAMENTOWY KILOF 6/3/3 &e&l♦",
+        "&8&m-----&f&m-----&8&m-----&e&m-----&8&m------&f&m------",
+        "",
+        "        &6&lINFORMACJE",
+        "          &fId: &e{ID}",
+        "       &fSzansa: &e{CHANCE}&6%",
+        "",
+        "&8&m-----&f&m-----&8&m-----&e&m-----&8&m------&f&m------"
+      ],
+      "inventorySlot": 10,
+      "chance": 10.25,
+      "material": "DIAMOND_PICKAXE",
+      "materialId": 1,
+      "materialName": "&6&lDIAMENTOWY KILOF 6/3/3",
+      "materialLore": [" ", "&cCenny przedmiot na serwerze"],
+      "materialEnchants": ["DIG_SPEED:6", "DURABILITY:3", "LOOT_BONUS_BLOCKS:3"]
+    },
+    {
+      "id": 2,
+      "inventoryName": " ",
+      "inventoryLore": [
+        "     &e&l♦ &6&lDIAMENTOWY KILOF 5/3/3 &e&l♦",
+        "&8&m-----&f&m-----&8&m-----&e&m-----&8&m------&f&m------",
+        "",
+        "        &6&lINFORMACJE",
+        "          &fId: &e{ID}",
+        "       &fSzansa: &e{CHANCE}&6%",
+        "",
+        "&8&m-----&f&m-----&8&m-----&e&m-----&8&m------&f&m------"
+      ],
+      "inventorySlot": 11,
+      "chance": 25.25,
+      "material": "DIAMOND_PICKAXE",
+      "materialId": 1,
+      "materialName": "&6&lDIAMENTOWY KILOF 5/3/3",
+      "materialLore": [" ", "&cCenny przedmiot na serwerze"],
+      "materialEnchants": ["DIG_SPEED:5", "DURABILITY:3", "LOOT_BONUS_BLOCKS:3"]
+    },
+    {
+      "id": 3,
+      "inventoryName": " ",
+      "inventoryLore": [
+        "     &3&l♦ &b&lDIAMENTOWY HELM 4/3 &3&l♦",
+        "&8&m-----&f&m-----&8&m-----&3&m-----&8&m------&f&m------",
+        "",
+        "        &3&lINFORMACJE",
+        "          &fId: &b{ID}",
+        "       &fSzansa: &b{CHANCE}&6%",
+        "",
+        "&8&m-----&f&m-----&8&m-----&3&m-----&8&m------&f&m------"
+      ],
+      "inventorySlot": 12,
+      "chance": 35.25,
+      "material": "DIAMOND_HELMET",
+      "materialId": 1,
+      "materialName": "&b&lDIAMENTOWY HELM 4/3",
+      "materialLore": [" ", "&cCenny przedmiot na serwerze"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    },
+    {
+      "id": 4,
+      "inventoryName": " ",
+      "inventoryLore": [
+        "     &3&l♦ &b&lDIAMENTOWA KLATA 4/3 &3&l♦",
+        "&8&m-----&f&m-----&8&m-----&3&m-----&8&m------&f&m------",
+        "",
+        "        &3&lINFORMACJE",
+        "          &fId: &b{ID}",
+        "       &fSzansa: &b{CHANCE}&6%",
+        "",
+        "&8&m-----&f&m-----&8&m-----&3&m-----&8&m------&f&m------"
+      ],
+      "inventorySlot": 13,
+      "chance": 35.25,
+      "material": "DIAMOND_CHESTPLATE",
+      "materialId": 1,
+      "materialName": "&b&lDIAMENTOWA KLATA 4/3",
+      "materialLore": [" ", "&cCenny przedmiot na serwerze"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    },
+    {
+      "id": 5,
+      "inventoryName": " ",
+      "inventoryLore": [
+        "     &3&l♦ &b&lDIAMENTOWE SPODNIE 4/3 &3&l♦",
+        "&8&m-----&f&m-----&8&m-----&3&m-----&8&m------&f&m------",
+        "",
+        "        &3&lINFORMACJE",
+        "          &fId: &b{ID}",
+        "       &fSzansa: &b{CHANCE}&6%",
+        "",
+        "&8&m-----&f&m-----&8&m-----&3&m-----&8&m------&f&m------"
+      ],
+      "inventorySlot": 14,
+      "chance": 35.25,
+      "material": "DIAMOND_LEGGINGS",
+      "materialId": 1,
+      "materialName": "&b&lDIAMENTOWE SPODNIE 4/3",
+      "materialLore": [" ", "&cCenny przedmiot na serwerze"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    },
+    {
+      "id": 6,
+      "inventoryName": " ",
+      "inventoryLore": [
+        "     &3&l♦ &b&lDIAMENTOWE BUTY 4/3 &3&l♦",
+        "&8&m-----&f&m-----&8&m-----&3&m-----&8&m------&f&m------",
+        "",
+        "        &3&lINFORMACJE",
+        "          &fId: &b{ID}",
+        "       &fSzansa: &b{CHANCE}&6%",
+        "",
+        "&8&m-----&f&m-----&8&m-----&3&m-----&8&m------&f&m------"
+      ],
+      "inventorySlot": 15,
+      "chance": 35.25,
+      "material": "DIAMOND_BOOTS",
+      "materialId": 1,
+      "materialName": "&b&lDIAMENTOWE BUTY 4/3",
+      "materialLore": [" ", "&cCenny przedmiot na serwerze"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    }
+  ]
+}

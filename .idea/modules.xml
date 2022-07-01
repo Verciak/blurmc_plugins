@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/blurmc_plugins.iml" filepath="$PROJECT_DIR$/.idea/blurmc_plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blurmc_plugins/pieszku-api/pieszku-api.iml" filepath="$PROJECT_DIR$/blurmc_plugins/pieszku-api/pieszku-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blurmc_plugins/pieszku-client/pieszku-client.iml" filepath="$PROJECT_DIR$/blurmc_plugins/pieszku-client/pieszku-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blurmc_plugins/pieszku-discord/pieszku-discord.iml" filepath="$PROJECT_DIR$/blurmc_plugins/pieszku-discord/pieszku-discord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blurmc_plugins/pieszku-proxy/pieszku-proxy.iml" filepath="$PROJECT_DIR$/blurmc_plugins/pieszku-proxy/pieszku-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blurmc_plugins/pieszku-server/pieszku-server.iml" filepath="$PROJECT_DIR$/blurmc_plugins/pieszku-server/pieszku-server.iml" />
+    </modules>
+  </component>
+</project>

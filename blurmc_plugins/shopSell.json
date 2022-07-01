@@ -1,0 +1,56 @@
+{
+  "shops": [
+    {
+      "inventoryName": "&bDiamentowy helm 4/3",
+      "inventoryLore": [
+        ""
+      ],
+      "inventorySlot": 10,
+      "count": 50,
+      "material": "DIAMOND_HELMET",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    },
+    {
+      "inventoryName": "&bDiamentowa klata 4/3",
+      "inventoryLore": [
+        ""
+      ],
+      "inventorySlot": 11,
+      "count": 50,
+      "material": "DIAMOND_CHESTPLATE",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    },
+    {
+      "inventoryName": "&bDiamentowe spodnie 4/3",
+      "inventoryLore": [
+        ""
+      ],
+      "inventorySlot": 12,
+      "count": 50,
+      "material": "DIAMOND_LEGGINGS",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    },
+    {
+      "inventoryName": "&bDiamentowe buty 4/3",
+      "inventoryLore": [
+        ""
+      ],
+      "inventorySlot": 13,
+      "count": 50,
+      "material": "DIAMOND_BOOTS",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    }
+  ]
+}

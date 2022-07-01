@@ -1,0 +1,20 @@
+{
+  "sectors": [
+    {
+      "name": "spawn",
+      "sectorType": "SPAWN",
+      "locationMinimum": {
+        "world": "spawn",
+        "x": -50,
+        "z": 50
+      },
+      "locationMaximum": {
+        "world": "spawn",
+        "x": -50,
+        "z": 50
+      },
+      "minSlots": 300,
+      "maxSlots": 300
+    }
+  ]
+}

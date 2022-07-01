@@ -1,0 +1,158 @@
+{
+  "tntShop": [
+    {
+      "inventoryName": "&4TNT x64",
+      "inventoryLore": [
+        "",
+        "",
+        ""
+      ],
+      "inventorySlot": 11,
+      "count": 128,
+      "material": "TNT",
+      "materialName": "null",
+      "materialAmount": 64,
+      "materialLore": ["null"],
+      "materialEnchants":["null"]
+    }
+  ],
+  "fightShop": [
+    {
+      "inventoryName": "&bDiamentowy helm 4/3",
+      "inventoryLore": [
+        ""
+      ],
+      "inventorySlot": 11,
+      "count": 50,
+      "material": "DIAMOND_HELMET",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    },
+    {
+      "inventoryName": "&bDiamentowa klata 4/3",
+      "inventoryLore": [
+        ""
+      ],
+      "inventorySlot": 12,
+      "count": 50,
+      "material": "DIAMOND_CHESTPLATE",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    },
+    {
+      "inventoryName": "&bDiamentowe spodnie 4/3",
+      "inventoryLore": [
+        ""
+      ],
+      "inventorySlot": 13,
+      "count": 50,
+      "material": "DIAMOND_LEGGINGS",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    },
+    {
+      "inventoryName": "&bDiamentowe buty 4/3",
+      "inventoryLore": [
+        ""
+      ],
+      "inventorySlot": 14,
+      "count": 50,
+      "material": "DIAMOND_BOOTS",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["DURABILITY:3", "PROTECTION_ENVIRONMENTAL:4"]
+    }
+  ],
+  "generatorShop": [
+    {
+      "inventoryName": "&6&lMagiczna stowniarka",
+      "inventoryLore": [
+        "",
+        "",
+        ""
+      ],
+      "inventorySlot": 11,
+      "count": 50,
+      "material": "ENDER_STONE",
+      "materialName": "null",
+      "materialAmount": 4,
+      "materialLore": ["null"],
+      "materialEnchants":["null"]
+    }
+  ],
+  "enchantmentShop": [
+    {
+      "inventoryName": "&d&lStol do zaklec",
+      "inventoryLore": [
+        "",
+        "",
+        ""
+      ],
+      "inventorySlot": 11,
+      "count": 50,
+      "material": "ENCHANTMENT_TABLE",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["null"]
+    }
+  ],
+  "pickaxeShop": [
+    {
+      "inventoryName": "&6&lKilof 5/3",
+      "inventoryLore": [
+        "",
+        "",
+        ""
+      ],
+      "inventorySlot": 11,
+      "count": 64,
+      "material": "DIAMOND_PICKAXE",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["DIG_SPEED:5", "DURABILITY:3"]
+    }
+  ],
+  "designShop": [
+    {
+      "inventoryName": "&6&lDrewno x64",
+      "inventoryLore": [
+        "",
+        "",
+        ""
+      ],
+      "inventorySlot": 11,
+      "count": 16,
+      "material": "OAK_PLANKS",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["null"]
+    }
+  ],
+  "blocksShop": [
+    {
+      "inventoryName": "&6&lDrewno x32",
+      "inventoryLore": [
+        "",
+        "",
+        ""
+      ],
+      "inventorySlot": 11,
+      "count": 32,
+      "material": "BIRCH_LOG",
+      "materialName": "null",
+      "materialAmount": 1,
+      "materialLore": ["null"],
+      "materialEnchants":["null"]
+    }
+  ]
+}

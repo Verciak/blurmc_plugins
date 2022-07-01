@@ -1,0 +1,100 @@
+{
+  "sectors": [
+    {
+      "name": "spawn01",
+      "sectorType": "SPAWN",
+      "locationMinimum": {
+        "world": "world",
+        "x": -50,
+        "z": -50
+      },
+      "locationMaximum": {
+        "world": "world",
+        "x": 50,
+        "z": 50
+      },
+      "minSlots": 300,
+      "maxSlots": 300
+    },
+    {
+      "name": "spawn02",
+      "sectorType": "SPAWN",
+      "locationMinimum": {
+        "world": "world",
+        "x": -50,
+        "z": -50
+      },
+      "locationMaximum": {
+        "world": "world",
+        "x": 50,
+        "z": 50
+      },
+      "minSlots": 300,
+      "maxSlots": 300
+    },
+    {
+      "name": "west01",
+      "sectorType": "GUILD",
+      "locationMinimum": {
+        "world": "world",
+        "x": -3000,
+        "z": -3000
+      },
+      "locationMaximum": {
+        "world": "world",
+        "x": -50,
+        "z": 50
+      },
+      "minSlots": 300,
+      "maxSlots": 300
+    },
+    {
+      "name": "north",
+      "sectorType": "GUILD",
+      "locationMinimum": {
+        "world": "world",
+        "x": -50,
+        "z": -3000
+      },
+      "locationMaximum": {
+        "world": "world",
+        "x": 3000,
+        "z": -50
+      },
+      "minSlots": 300,
+      "maxSlots": 300
+    },
+    {
+      "name": "east01",
+      "sectorType": "GUILD",
+      "locationMinimum": {
+        "world": "world",
+        "x": 50,
+        "z": -50
+      },
+      "locationMaximum": {
+        "world": "world",
+        "x": 3000,
+        "z": 3000
+      },
+      "minSlots": 300,
+      "maxSlots": 300
+    },
+    {
+      "name": "south01",
+      "sectorType": "GUILD",
+      "locationMinimum": {
+        "world": "world",
+        "x": -3000,
+        "z": 50
+      },
+      "locationMaximum": {
+        "world": "world",
+        "x": 50,
+        "z": 3000
+      },
+      "minSlots": 300,
+      "maxSlots": 300
+    }
+  ]
+}

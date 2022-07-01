@@ -1,0 +1,11 @@
+{
+  "proxies": [
+    {
+      "name": "proxy01",
+      "delayConnection": 1,
+      "minimumPlayers": 500,
+      "maximumPlayers": 500,
+      "connections": 100
+    }
+  ]
+}

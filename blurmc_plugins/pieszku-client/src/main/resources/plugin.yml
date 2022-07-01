@@ -1,0 +1,9 @@
+name: pieszku-sectors
+version: 1.3
+main: pl.pieszku.sectors.BukkitMain
+author: Pieszku
+description: The best sectors for sell configuration in master-server
+api-version: 1.16
+depend:
+  - 'ProtocolLib'
+  - 'WorldEdit'
